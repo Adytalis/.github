@@ -1,0 +1,6 @@
+# Organisation-wide defaults: used by every Adytalis repository that has no ISSUE_TEMPLATE folder of its own.
+blank_issues_enabled: false
+contact_links:
+  - name: Security problem
+    url: https://github.com/Adytalis/.github/blob/main/SECURITY.md
+    about: Report vulnerabilities privately. Never in a public issue.
