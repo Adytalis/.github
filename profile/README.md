@@ -1,6 +1,6 @@
 # Adytalis
 
-Adytalis is the home of Henry Avery's software: every app is built and released under the Adytalis name.
+Adytalis builds and publishes software. Every Adytalis app is released under the Adytalis name.
 
 ## Apps
 
