@@ -1,0 +1,20 @@
+name: Task
+description: A piece of work (chores, docs, refactors, set-up).
+labels: ["type:chore"]
+assignees: ["HaveryDev"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What needs doing
+      description: The outcome, in a sentence or two. Link the decision, document or issue it comes from.
+    validations:
+      required: true
+  - type: textarea
+    id: done
+    attributes:
+      label: Done when
+      description: How anyone can check it is finished (a command, a screen, a file).
+      placeholder: "- [ ] …"
+    validations:
+      required: true
